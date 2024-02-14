@@ -3202,7 +3202,7 @@ body.landing #page-wrapper {
 .dropotron li.active > span,
 .dropotron li:hover > a,
 .dropotron li:hover > span {
-  background: #e89980;
+  background: #ef476f;
   color: #ffffff;
 }
 
@@ -3380,7 +3380,7 @@ body.landing #main {
 /* CTA */
 
 #cta {
-  background: #e89980;
+  background: #ef476f;
   color: #f9e6df;
   padding: 3.5em 0 4em 0;
   text-align: center;
@@ -3406,7 +3406,7 @@ body.landing #main {
 #cta .button {
   box-shadow: none;
   background: #fff;
-  color: #e89980;
+  color: #ef476f;
 }
 
 #cta input[type="text"],
